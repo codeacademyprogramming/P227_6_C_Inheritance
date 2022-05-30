@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworks", "Homeworks\Homeworks.csproj", "{E5311C5C-5A51-48BA-B222-ECE3FD6719DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson", "Lesson\Lesson.csproj", "{63712402-1EB4-4B5A-9199-46C1930275BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "StoreApp\StoreApp.csproj", "{6D8D0D79-220F-4576-A2D3-AB7CE7BBF400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5311C5C-5A51-48BA-B222-ECE3FD6719DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5311C5C-5A51-48BA-B222-ECE3FD6719DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5311C5C-5A51-48BA-B222-ECE3FD6719DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5311C5C-5A51-48BA-B222-ECE3FD6719DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63712402-1EB4-4B5A-9199-46C1930275BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63712402-1EB4-4B5A-9199-46C1930275BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63712402-1EB4-4B5A-9199-46C1930275BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63712402-1EB4-4B5A-9199-46C1930275BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8D0D79-220F-4576-A2D3-AB7CE7BBF400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8D0D79-220F-4576-A2D3-AB7CE7BBF400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8D0D79-220F-4576-A2D3-AB7CE7BBF400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8D0D79-220F-4576-A2D3-AB7CE7BBF400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6028801-552A-48EE-9B2C-76EF48864E19}
+	EndGlobalSection
+EndGlobal

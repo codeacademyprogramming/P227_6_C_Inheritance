@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5311c5c-5a51-48ba-b222-ece3fd6719da": {
+      "ProjectGuid": "e5311c5c-5a51-48ba-b222-ece3fd6719da",
+      "DisplayName": "Homeworks",
+      "ColorIndex": 0
+    },
+    "63712402-1eb4-4b5a-9199-46c1930275be": {
+      "ProjectGuid": "63712402-1eb4-4b5a-9199-46c1930275be",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "6d8d0d79-220f-4576-a2d3-ab7ce7bbf400": {
+      "ProjectGuid": "6d8d0d79-220f-4576-a2d3-ab7ce7bbf400",
+      "DisplayName": "StoreApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
